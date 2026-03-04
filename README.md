@@ -282,11 +282,3 @@ For the full list of environment variables, refer to the '.env.local.example' fi
 Click "Deploy" and wait for your frontend to deploy.
 
 Once deployed, you should be able to use your hosted instance of Chatbot UI via the URL Vercel gives you.
-
-## Contributing
-
-We are working on a guide for contributing.
-
-## Contact
-
-Message Mckay on [Twitter/X](https://twitter.com/mckaywrigley)
